@@ -1,4 +1,6 @@
-h1  {
-  color: red;
+h1 {
+  color: #ff0000;
 }
-<link rel="stylesheet" href="stylesheet.css">
+p {
+  color: #0000ff;
+}
