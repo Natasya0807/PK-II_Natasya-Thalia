@@ -5,8 +5,6 @@ body {
 li {
   list-style: none;
   float: left;
-  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
-  
 }
 
 .header {
@@ -17,9 +15,7 @@ li {
 
 .header-logo {
   float: left;
-  font-size: 36px;
-  /* Ubahlah padding atas & bawah ke 20px, dan padding kiri & kanan ke 40px */
-  
+  font-size: 50px;
 }
 
 .main {
