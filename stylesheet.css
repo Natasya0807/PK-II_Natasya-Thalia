@@ -2,7 +2,7 @@ h1 {
   color: #ff0000;
   font-size: 10px;
   font-family: serif;
-  background-color: #f3f372;
+  background-color: #ffd800;
   width: 500px;
   height: 80px;
 }
@@ -10,7 +10,6 @@ p {
   color: #0000ff;
   font-size: 40px;
   font-family: Avenir Next;
-  background-color: #ffd800;
 }
 img {
   width: 500px;
